@@ -1,0 +1,26 @@
+.link{
+    color: blue;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.estilizacao{
+    color: green;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.filmeHoje{
+    color: darkred;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.filmeAmanha{
+    color: darkblue;
+    text-decoration: none;
+    font-family: Arial;
+}
+.titulo{
+    font-family: Arial;
+}
