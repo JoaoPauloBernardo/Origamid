@@ -1,0 +1,33 @@
+body{
+  font-family: Arial; 
+  margin: 50px; 
+}
+h1{
+    text-align: center;
+}
+span{
+    color: #febe01;
+}
+p{
+    color:#b2b2b2;
+}
+h2{
+    margin: 0px;
+    color: #ffffff; /*nao precisava da cor aqui, ja que ele vai ta dentro da div .item*/
+}
+.item{
+    background: #111;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 4px;
+    color: #fff;
+}
+/*criar um botao artificial ja que no exercicio ele nao usou buttom*/
+a{  
+    display: inline-block;
+    background: #febe01;
+    text-decoration: none;
+    color: #332100;
+    padding: 10px;
+    border-radius: 4px;
+}
