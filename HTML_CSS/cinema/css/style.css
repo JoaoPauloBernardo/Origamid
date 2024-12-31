@@ -1,0 +1,25 @@
+.link{
+    color: blue;
+    text-decoration: none;
+}
+
+.estilizacao{
+    color: seagreen;
+    text-decoration: none;
+}
+
+.filmeHoje{
+    color: darkred;
+    text-decoration: none;
+}
+
+.filmeAmanha{
+    color: darkblue;
+    text-decoration: none;
+}
+body{
+    font-family: Arial;
+}
+p{
+    font-size: 20px;
+}
